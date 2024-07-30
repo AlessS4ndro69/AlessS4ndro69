@@ -30,8 +30,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently bachelor `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-#- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/alexmamaniquispe/).
+- :boom: You can visit [MY WEBSITE]().
 <br>
 
 
