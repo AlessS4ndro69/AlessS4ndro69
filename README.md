@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Alex Mamani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Bachelor;Software+Programmer;Lover+of+machine+learning+and+data+science;Always+learning+new+things"></a>
+  <a ><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Bachelor;Software+Programmer;Lover+of+machine+learning+and+data+science;Always+learning+new+things"></a>
 </p>
 
 
