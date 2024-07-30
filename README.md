@@ -105,6 +105,22 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Backend Development
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://nodejs.org/en" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Node.js-v18.17.0-339933.svg?style=flat&logo=node.js&logoColor=white>
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Flask-339933.svg?style=flat&logo=flask&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/PHP-339988.svg?style=flat&logo=php&logoColor=white">
+  </a>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
@@ -148,7 +164,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ <!--### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -163,7 +179,7 @@
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
+</p> -->
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
